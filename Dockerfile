@@ -2,7 +2,7 @@
 # Docker file for CentOS with RVM
 FROM centos:centos7
 
-MAINTAINER Scott Coulton "https://github.com/scotty-c/docker-rvm"
+MAINTAINER Robert Gurtler "https://github.com/cyrusbt5/docker-rvm"
 
 ENV HOME /root
 
